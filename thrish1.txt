@@ -1,0 +1,1 @@
+creates thrish.txt file
